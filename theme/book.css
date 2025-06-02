@@ -1,0 +1,35 @@
+/* highlight color */
+
+.hl_yel{
+    color: #E9CD4C;  /*刈安 Kariyasu*/
+}
+
+.hl_red{
+    color: #CB1B45;  /*紅 Kurenai*/
+}
+
+
+/* comment pencil */
+
+.cp_blu{
+    color: #58B2DC;  /*空 Sora*/
+}
+
+.cp_ind{
+    color: #005CAF;  /*琉璃 Ruri*/
+}
+
+
+/*url*/
+
+.url{
+    color: #86A697;  /*錆青磁 Sabiseiji*/
+}
+
+
+/*emoji*/
+
+.emoji {
+    font-size: 1em;
+    vertical-align: middle;
+}
